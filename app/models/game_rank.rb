@@ -1,0 +1,3 @@
+class GameRank < ApplicationRecord
+    
+end
