@@ -1,3 +1,0 @@
-class GameRank < ApplicationRecord
-    
-end
