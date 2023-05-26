@@ -6,7 +6,7 @@ end
 # Table name: games
 #
 #  id         :integer          not null, primary key
-#  games      :string
+#  title      :string
 #  publisher  :text
 #  developer  :text
 #  platform   :text
@@ -15,4 +15,3 @@ end
 #  created_at :datetime         not null
 #  updated_at :datetime         not null
 #
-

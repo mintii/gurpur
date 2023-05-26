@@ -20,7 +20,7 @@ ActiveRecord::Schema[7.0].define(version: 2023_05_18_220907) do
   end
 
   create_table "games", force: :cascade do |t|
-    t.string "games"
+    t.string "title"
     t.text "publisher"
     t.text "developer"
     t.text "platform"

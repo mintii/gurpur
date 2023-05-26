@@ -11,4 +11,3 @@ end
 #  updated_at :datetime         not null
 #  game_id    :integer
 #
-

@@ -1,3 +1,11 @@
+require "test_helper"
+
+class GameRankTest < ActiveSupport::TestCase
+  # test "the truth" do
+  #   assert true
+  # end
+end
+
 # == Schema Information
 #
 # Table name: game_ranks
@@ -8,10 +16,3 @@
 #  updated_at :datetime         not null
 #  game_id    :integer
 #
-require "test_helper"
-
-class GameRankTest < ActiveSupport::TestCase
-  # test "the truth" do
-  #   assert true
-  # end
-end
